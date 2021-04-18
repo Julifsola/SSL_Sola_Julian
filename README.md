@@ -1,2 +1,2 @@
 # SSL_Sola_Julian
-Repositorio Publico
+Repositorio publico para la cursada de SSL
